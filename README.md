@@ -14,9 +14,9 @@ This project is made to practice my PHP learning.
 ```
 $ git clone https://github.com/OzanLab/phpcrud.git
 ```
-2. Move to `crud` folder
+2. Move to `phpcrud` folder
 ```
-$ cd crud
+$ cd phpcrud
 ```
 
 3. Import the `database.sql` file into mysql server
